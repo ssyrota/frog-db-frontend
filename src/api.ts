@@ -118,4 +118,4 @@ class Api {
   }
 }
 
-export const api = new Api('http://localhost:8080');
+export const api = new Api('https://frogdb.herokuapp.com');
